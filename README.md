@@ -1,35 +1,115 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=lu1tr0n&style=flat-square&color=blue" alt=""></p>
+<h1 align="center">Luis Navarro</h1>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center">
+  <strong>Full-Stack Software Engineer</strong><br/>
+  TypeScript · Next.js · Node.js · Python · Java · Spring · PostgreSQL
+</p>
 
-<p align="center"><img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="600" height="300" /></p>
-
-###  :man_technologist: &nbsp;About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from El Salvador.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- 🌱 Exploring Technical Content Writing.
-
-- ⚡ In my free time I solve problems and read tech articles.
-
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-lu1tr0n-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-navarro-alvarez)
-
----
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lu1tr0n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lu1tr0n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-navarro-alvarez) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_luiscifer_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7680667) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lu1tr0n) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lu1tr0n) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lu1tr0n) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCanY2E2wLpdla9C1XvMrhng) 
-
-###  🛠 &nbsp;Languages and Tools :
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lu1tr0n&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lu1tr0n&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lu1tr0n&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-navarro-alvarez">
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Navarro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Luis Navarro" />
+  </a>
+  <a href="https://stackoverflow.com/users/7680667">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-lu1tr0n-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Perfil de Stack Overflow" />
+  </a>
+  <a href="https://github.com/lu1tr0n">
+    <img src="https://img.shields.io/github/followers/lu1tr0n?style=flat-square&label=GitHub&logo=github&color=181717" alt="Seguidores de GitHub" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lu1tr0n&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## About me
+
+Full-stack software engineer. I design and build web applications end-to-end: from data modeling and APIs to the user experience in the browser. I work daily with **TypeScript, React, Next.js and Node.js** on the frontend/backend, **Python** for automation and AI integrations, and **Java + Spring** for enterprise systems. I deploy on **Docker, Railway, AWS and DigitalOcean**, mostly over **PostgreSQL**.
+
+I focus on maintainable code, real-world performance (not marketing benchmarks) and products people actually use.
+
+- 🧠 Learning & applying: LLM architectures (Claude, OpenAI), RAG, fine-tuning, autonomous agents
+- 📚 Preparing for **VMware Spring Professional Develop 2V0-72.22** certification
+- 🌎 Open to remote opportunities
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luis-navarro-alvarez)
+
+## Sobre mí
+
+Ingeniero de software full-stack. Diseño y construyo aplicaciones web end-to-end: desde el modelado de datos y APIs hasta la experiencia de usuario en el navegador. Trabajo a diario con **TypeScript, React, Next.js y Node.js** en frontend/backend, **Python** para automatización e integraciones de IA, y **Java + Spring** en sistemas empresariales. Despliego en **Docker, Railway, AWS y DigitalOcean**, sobre **PostgreSQL** principalmente.
+
+Me enfoco en código mantenible, performance real (no benchmarks de marketing) y producto que la gente realmente use.
+
+- 🧠 Aprendiendo y aplicando: arquitecturas con LLMs (Claude, OpenAI), RAG, fine-tuning, agentes autónomos
+- 📚 Preparando la certificación **VMware Spring Professional Develop 2V0-72.22**
+- 🌎 Abierto a oportunidades remotas
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/luis-navarro-alvarez)
+
+---
+
+## 🛠 Tech stack · Stack tecnológico
+
+### Languages · Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,bash,html,css" alt="TypeScript, JavaScript, Python, Java, PHP, Bash, HTML, CSS" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="React, Next.js, Tailwind CSS, Bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,prisma" alt="Node.js, Express, Spring, FastAPI, Prisma" />
+</p>
+
+### Databases · Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite" />
+</p>
+
+### Cloud, DevOps & tools · Cloud, DevOps y herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx,linux,git,github,vscode,postman" alt="Docker, Kubernetes, AWS, Azure, Nginx, Linux, Git, GitHub, VS Code, Postman" />
+</p>
+
+### AI & automation · IA y automatización
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=flat-square" alt="Model Context Protocol" />
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lu1tr0n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="Estadísticas de GitHub de lu1tr0n" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu1tr0n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Lenguajes más usados en GitHub" />
+</p>
+
+---
+
+## 🌐 Connect · Redes
+
+<p>
+  <a href="https://www.linkedin.com/in/luis-navarro-alvarez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/7680667"><img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://twitter.com/lu1tr0n"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://reddit.com/user/_luiscifer_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+</p>
+
+<!--
+SEO keywords (hidden, helps GitHub/Google indexing in EN + ES):
+Full-Stack Software Engineer, Full-Stack Developer, Software Engineer,
+Next.js developer, TypeScript engineer, React developer, Node.js engineer,
+Python developer, Spring Boot developer, Java backend developer,
+PostgreSQL, remote software engineer, web applications developer,
+desarrollador full-stack, ingeniero de software, desarrollador remoto,
+desarrollador Next.js, desarrollador TypeScript, desarrollador Python.
+-->
