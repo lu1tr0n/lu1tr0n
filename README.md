@@ -89,8 +89,8 @@ Me enfoco en código mantenible, performance real (no benchmarks de marketing) y
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lu1tr0n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="Estadísticas de GitHub de lu1tr0n" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu1tr0n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Lenguajes más usados en GitHub" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=lu1tr0n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="Estadísticas de GitHub de lu1tr0n" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=lu1tr0n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Lenguajes más usados en GitHub" />
 </p>
 
 ---
