@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full-Stack Software Engineer</strong><br/>
-  TypeScript · Next.js · Node.js · Python · Java · Spring · PostgreSQL
+  TypeScript · Next.js · Node.js · Python · Java · Quarkus · Spring · PostgreSQL
 </p>
 
 <p align="center">
