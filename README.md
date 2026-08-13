@@ -21,7 +21,7 @@
 
 ## About me
 
-Full-stack software engineer. I design and build web applications end-to-end: from data modeling and APIs to the user experience in the browser. I work daily with **TypeScript, React, Next.js and Node.js** on the frontend/backend, **Python** for automation and AI integrations, and **Java + Spring** for enterprise systems. I deploy on **Docker, Railway, AWS and DigitalOcean**, mostly over **PostgreSQL**.
+Full-stack software engineer. I design and build web applications end-to-end: from data modeling and APIs to the user experience in the browser. I work daily with **TypeScript, React, Next.js and Node.js** on the frontend/backend, **Python** for automation and AI integrations, and **Java + Spring + Quarkus** for enterprise and cloud-native systems. I deploy on **Docker, Railway, AWS and DigitalOcean**, mostly over **PostgreSQL**.
 
 I focus on maintainable code, real-world performance (not marketing benchmarks) and products people actually use.
 
@@ -32,7 +32,7 @@ I focus on maintainable code, real-world performance (not marketing benchmarks) 
 
 ## Sobre mí
 
-Ingeniero de software full-stack. Diseño y construyo aplicaciones web end-to-end: desde el modelado de datos y APIs hasta la experiencia de usuario en el navegador. Trabajo a diario con **TypeScript, React, Next.js y Node.js** en frontend/backend, **Python** para automatización e integraciones de IA, y **Java + Spring** en sistemas empresariales. Despliego en **Docker, Railway, AWS y DigitalOcean**, sobre **PostgreSQL** principalmente.
+Ingeniero de software full-stack. Diseño y construyo aplicaciones web end-to-end: desde el modelado de datos y APIs hasta la experiencia de usuario en el navegador. Trabajo a diario con **TypeScript, React, Next.js y Node.js** en frontend/backend, **Python** para automatización e integraciones de IA, y **Java + Spring + Quarkus** en sistemas empresariales y cloud-native. Despliego en **Docker, Railway, AWS y DigitalOcean**, sobre **PostgreSQL** principalmente.
 
 Me enfoco en código mantenible, performance real (no benchmarks de marketing) y producto que la gente realmente use.
 
@@ -61,6 +61,9 @@ Me enfoco en código mantenible, performance real (no benchmarks de marketing) y
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,prisma" alt="Node.js, Express, Spring, FastAPI, Prisma" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus" />
 </p>
 
 ### Databases · Bases de datos
@@ -108,8 +111,8 @@ Me enfoco en código mantenible, performance real (no benchmarks de marketing) y
 SEO keywords (hidden, helps GitHub/Google indexing in EN + ES):
 Full-Stack Software Engineer, Full-Stack Developer, Software Engineer,
 Next.js developer, TypeScript engineer, React developer, Node.js engineer,
-Python developer, Spring Boot developer, Java backend developer,
-PostgreSQL, remote software engineer, web applications developer,
+Python developer, Spring Boot developer, Quarkus developer, Java backend developer,
+Quarkus, cloud-native Java, PostgreSQL, remote software engineer, web applications developer,
 desarrollador full-stack, ingeniero de software, desarrollador remoto,
 desarrollador Next.js, desarrollador TypeScript, desarrollador Python.
 -->
