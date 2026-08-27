@@ -26,7 +26,6 @@ Full-stack software engineer. I design and build web applications end-to-end: fr
 I focus on maintainable code, real-world performance (not marketing benchmarks) and products people actually use.
 
 - 🧠 Learning & applying: LLM architectures (Claude, OpenAI), RAG, fine-tuning, autonomous agents
-- 📚 Preparing for **VMware Spring Professional Develop 2V0-72.22** certification
 - 🌎 Open to remote opportunities
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luis-navarro-alvarez)
 
