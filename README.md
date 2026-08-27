@@ -37,7 +37,6 @@ Ingeniero de software full-stack. Diseño y construyo aplicaciones web end-to-en
 Me enfoco en código mantenible, performance real (no benchmarks de marketing) y producto que la gente realmente use.
 
 - 🧠 Aprendiendo y aplicando: arquitecturas con LLMs (Claude, OpenAI), RAG, fine-tuning, agentes autónomos
-- 📚 Preparando la certificación **VMware Spring Professional Develop 2V0-72.22**
 - 🌎 Abierto a oportunidades remotas
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/luis-navarro-alvarez)
 
