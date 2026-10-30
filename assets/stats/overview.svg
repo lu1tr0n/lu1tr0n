@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="195" viewBox="0 0 330 195" role="img" aria-label="Luis Navarro&#x27;s GitHub stats">
+  <title>Luis Navarro&#x27;s GitHub stats</title>
+  <rect width="330" height="195" rx="4.5" fill="#1a1b27"/>
+  <text x="25" y="35" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="18" font-weight="600">Luis Navarro&#x27;s GitHub stats</text>
+  <circle cx="31" cy="65" r="4" fill="#bf91f3"/>
+  <text x="45" y="70" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600">Total stars:</text>
+  <text x="300" y="70" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" text-anchor="end">8</text>
+  <circle cx="31" cy="90" r="4" fill="#bf91f3"/>
+  <text x="45" y="95" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600">Commits (last year):</text>
+  <text x="300" y="95" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" text-anchor="end">232</text>
+  <circle cx="31" cy="115" r="4" fill="#bf91f3"/>
+  <text x="45" y="120" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600">Pull requests:</text>
+  <text x="300" y="120" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" text-anchor="end">344</text>
+  <circle cx="31" cy="140" r="4" fill="#bf91f3"/>
+  <text x="45" y="145" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600">Issues:</text>
+  <text x="300" y="145" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" text-anchor="end">14</text>
+  <circle cx="31" cy="165" r="4" fill="#bf91f3"/>
+  <text x="45" y="170" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600">Contributed to:</text>
+  <text x="300" y="170" fill="#38bdae" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" text-anchor="end">17</text>
+</svg>

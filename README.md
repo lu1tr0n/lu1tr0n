@@ -7,13 +7,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-navarro-alvarez">
-    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Navarro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Luis Navarro" />
+    <img src="assets/badges/linkedin.svg" alt="LinkedIn de Luis Navarro" />
   </a>
   <a href="https://stackoverflow.com/users/7680667">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-lu1tr0n-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Perfil de Stack Overflow" />
-  </a>
-  <a href="https://github.com/lu1tr0n">
-    <img src="https://img.shields.io/github/followers/lu1tr0n?style=flat-square&label=GitHub&logo=github&color=181717" alt="Seguidores de GitHub" />
+    <img src="assets/badges/stackoverflow.svg" alt="Perfil de Stack Overflow" />
   </a>
 </p>
 
@@ -46,43 +43,43 @@ Me enfoco en código mantenible, performance real (no benchmarks de marketing) y
 ### Languages · Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,bash,html,css" alt="TypeScript, JavaScript, Python, Java, PHP, Bash, HTML, CSS" />
+  <img src="assets/icons/languages.svg" alt="TypeScript, JavaScript, Python, Java, PHP, Bash, HTML, CSS" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="React, Next.js, Tailwind CSS, Bootstrap" />
+  <img src="assets/icons/frontend.svg" alt="React, Next.js, Tailwind CSS, Bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,prisma" alt="Node.js, Express, Spring, FastAPI, Prisma" />
+  <img src="assets/icons/backend.svg" alt="Node.js, Express, Spring, FastAPI, Prisma" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus" />
+  <img src="assets/badges/quarkus.svg" alt="Quarkus" />
 </p>
 
 ### Databases · Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite" />
+  <img src="assets/icons/databases.svg" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite" />
 </p>
 
 ### Cloud, DevOps & tools · Cloud, DevOps y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx,linux,git,github,vscode,postman" alt="Docker, Kubernetes, AWS, Azure, Nginx, Linux, Git, GitHub, VS Code, Postman" />
+  <img src="assets/icons/devops.svg" alt="Docker, Kubernetes, AWS, Azure, Nginx, Linux, Git, GitHub, VS Code, Postman" />
 </p>
 
 ### AI & automation · IA y automatización
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=flat-square" alt="Model Context Protocol" />
+  <img src="assets/badges/claude.svg" alt="Anthropic Claude" />
+  <img src="assets/badges/openai.svg" alt="OpenAI API" />
+  <img src="assets/badges/langchain.svg" alt="LangChain" />
+  <img src="assets/badges/mcp.svg" alt="Model Context Protocol" />
 </p>
 
 ---
@@ -90,8 +87,8 @@ Me enfoco en código mantenible, performance real (no benchmarks de marketing) y
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lu1tr0n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="Estadísticas de GitHub de lu1tr0n" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lu1tr0n&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Lenguajes más usados en GitHub" />
+  <img height="170" src="assets/stats/overview.svg" alt="Estadísticas de GitHub de lu1tr0n" />
+  <img height="170" src="assets/stats/languages.svg" alt="Lenguajes más usados en GitHub" />
 </p>
 
 ---
@@ -99,10 +96,10 @@ Me enfoco en código mantenible, performance real (no benchmarks de marketing) y
 ## 🌐 Connect · Redes
 
 <p>
-  <a href="https://www.linkedin.com/in/luis-navarro-alvarez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/7680667"><img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://twitter.com/lu1tr0n"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://reddit.com/user/_luiscifer_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://www.linkedin.com/in/luis-navarro-alvarez"><img src="assets/badges/connect-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/7680667"><img src="assets/badges/connect-stackoverflow.svg" alt="Stack Overflow" /></a>
+  <a href="https://twitter.com/lu1tr0n"><img src="assets/badges/connect-twitter.svg" alt="Twitter" /></a>
+  <a href="https://reddit.com/user/_luiscifer_"><img src="assets/badges/connect-reddit.svg" alt="Reddit" /></a>
 </p>
 
 <!--
